@@ -1,2 +1,22 @@
 # Extracting-Information-from-RC-card
-Creating a model to extract required information from images of RC cards.
+Creating a model to extract required information from images of RC cards, using the TEXTRACT API for detection of text in images and coding to get desired informations.
+
+IMPORTING FILES FROM DRIVE
+
+IMPORTING BOTO3 AND PICTURES AS BYTES
+
+DECLARING CLIENT ID OF AWS TEXTRACT
+
+EXTRACTING ENGINE NO.s
+
+EXTRACTING NAMES
+
+EXTRACTING MANUFACTURING DATES & REGISTRATION DATES
+
+EXTRACTING CHASIS NO. & REGISTRATION NO.
+
+CREATING DICTIONARIES
+
+CREATING DATAFRAMES
+
+CONVERTING DATAFRAMES TO EXCEL FILE
